@@ -2,4 +2,4 @@
 
 To book on fiverr please use this link: https://bit.ly/3YS1E9w
 
-![alt text](/codemariphd.github.io/images/logo.jpg)
+![logo](https://user-images.githubusercontent.com/22038626/210106801-2ab314e3-1df3-47db-a88c-75579695cc8d.jpg)
